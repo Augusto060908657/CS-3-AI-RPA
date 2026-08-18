@@ -1,0 +1,11 @@
+{
+  "motor_insulation_class": "F",
+  "temp_limite_operacao_C": 155,
+  "margem_alerta_C": 131.8,
+  "guia_troubleshooting": {
+    "Alerta": "Verificar ventilacao, carga aplicada e limpeza das aletas de dissipacao.",
+    "Critico": "Interromper operacao, inspecionar rolamentos e isolamento, acionar manutencao corretiva."
+  },
+  "fonte_dados": "scraping_online",
+  "coletado_em": "2026-08-17T23:43:58.456605"
+}

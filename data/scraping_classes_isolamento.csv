@@ -1,0 +1,11 @@
+IEC 60085 Thermal class[3],Old IEC 60085 Thermal class[3][4],NEMA Class[5],NEMA/UL Letter class,Maximum hot spot temperature allowed,Relative thermal endurance index (°C)[3],Typical materials
+90.0,Y,,,90 °C,>90 - 105,"Unimpregnated paper, silk, cotton, vulcanized natural rubber, thermoplastics that soften above 90 °C[6]"
+105.0,A,105.0,A,105 °C,>105 - 120,"Organic materials such as cotton, silk, paper, some synthetic fibers[7]"
+120.0,E,,,120 °C,>120 - 130,"Polyurethane, epoxy resins, polyethylene terephthalate, and other materials that have shown usable lifetime at this temperature"
+130.0,B,130.0,B,130 °C,>130 - 155,"Inorganic materials such as mica, glass fibers, asbestos, with high-temperature binders, or others with usable lifetime at this temperature"
+155.0,F,155.0,F,155 °C,>155 - 180,"Class 130 materials with binders stable at the higher temperature, or other materials with usable lifetime at this temperature"
+180.0,H,180.0,H,180 °C,>180 - 200,"Silicone elastomers, and Class 130 inorganic materials with high-temperature binders, or other materials with usable lifetime at this temperature"
+200.0,N,,N,200 °C,>200 - 220,"As for Class B, and including teflon"
+220.0,R,220.0,R,220 °C,>220 - 250,As for IEC class 200
+,,,S,240 °C,,Polyimide enamel or Polyimide films
+250.0,,,,250 °C,>250,As for IEC class 200. Further IEC classes designated numerically at 25 °C increments.
