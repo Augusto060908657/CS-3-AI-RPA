@@ -15,7 +15,7 @@ Nesta etapa da sprint, o nosso Digital Twin ganha "vida" e passa da fase analít
 
 Para estruturar essa solução com robustez, o projeto foi dividido em dois pilares fundamentais:
 
-* 🌍 **Pilar 1: Inteligência Externa (Web Scraping)**
+*  **Pilar 1: Inteligência Externa (Web Scraping)**
 Desenvolvemos um robô explorador que navega em fontes técnicas (tabelas normativas IEC/NEMA) para buscar limites normativos de temperatura e classes de isolamento. O objetivo é enriquecer o contexto do motor além dos dados de placa. Em caso de indisponibilidade da rede, o sistema possui um *fallback* (dataset de contingência) para garantir a continuidade da automação.
 
 *  **Pilar 2: Automação do Ciclo de Eventos (RPA)**
